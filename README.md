@@ -25,3 +25,7 @@ Derivatives:  European, Expiration date = 3/21/08, K = Strike price = 146 <br />
 
 Source: [Tomas Bjork] Arbitrage Theory in Continuous Time, Chpater 17.1
 
+### Read More:
+[Binary Option in Thailand](https://www.opsibinerid.com)
+[Binary Optuon in Indonesia](https://www.fxsinergi.com)
+
